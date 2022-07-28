@@ -1,4 +1,4 @@
-p {
+.odd {
     background-color: palevioletred;
     font-family: "Verdana", "DejaVu Sas", sans-serif;
 }
@@ -6,7 +6,7 @@ p {
     font-size: 36px;
 
 }
-#three { font-size: 24px;}
+.oddision { font-size: 24px;}
 #four {
     background-color: lightgreen;
     font-size: 24px;
